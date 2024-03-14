@@ -1,0 +1,53 @@
+Its a popular devops tool used for SCM/VCS purpose . {source code managment }/{ version control system } SCM - the place where your writing the code and storing data .   
+Each place is a version its present in download and one will in desktop .VCS - is a system that records yours changes to a file or a set of files overtime so that you can recall
+specific Version later .
+
+VCS has three types as follows :
+
+# LVCS - { local version control system }
+# CVCS - { central version control system }
+# DVCS - { distributed version control system } 
+
+LVCS - Editing a file is called checkout the file , whenever we edit a file and save , it creates a different Version and for reference we save it in excel sheet for local database . 
+"Local system" , Revision Control System {RCS} - we will be maintaining a database here .
+
+CVCS - " Central Server " a user will write the code and the files will be uploaded to the central server .Here few people will collabrate and work together to edit a file and everyone
+can see what other is doing . DIS Adv - Center server failure / disk corrupted  .
+
+DVCS - We do commit and update and changes will be saved in local repo and then push {upload} pull{download} the data .The data is distributed in all the local laptops if one got broke down 
+we can download or pull the data from D2 or D3 { D2 and D3 acts like a backup tool .  
+
+* What is Repositories ?
+It is a folder or directory where we can store project related data . 
+       
+* There are 2 types of Repositories 
+
+   1 . Central/Remote/Online Repo 
+     
+     # Can be stored in Git Hub /BitBucket/GitLab.
+     # Typically located on remote server .
+     # Exclusively consits of ".git" folder.
+     # Meant for team to share and exchange data .
+
+
+   2. Local Repo 
+
+     # Typically located on local machine .
+     # Resides as a ".git" folder inside your project's root .
+     # Only admin of the machine can work on the repo .
+     # can be stored in laptops . 
+
+   3.  BitBucket / GitHub Repositories .
+
+     # git --version - to look for the version we are using .
+     # git config --list -show--origin 
+     # cat /etc/gitconfig .
+
+
+
+
+
+
+
+
+
