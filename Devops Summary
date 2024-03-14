@@ -1,0 +1,12 @@
+                                                                   HISTORY OF DEVOPs .
+Before Devops came into the picture we had Waterfall Methodology and Agile Methodology and then Devops .
+These are Rules the DEV- SDLC { software development life cycle } and OPs - ITIL { Information technology infrastructure library } follows .
+
+Waterfall Methodology - One of the process to develop software/application for the companies . It is manually done /no proper tools to monitor /lot of time 
+consumption for deploying / no automation These are few Disadvantages of this model .
+
+Agile M - Based on customer feedback we add some processes to a tool For eg - Paytm . Scm/Vcs a tool which we use in Agile M for Merging{source code managment }/{ version control system } . 
+Celinium a tool came for testing and review . process of delivering the software with customer feedback the services will be released gradutally .
+CI { continous Intergation } CD { continous Deployments } / and its not fully automated .
+
+DEVOPs - Higher degree of Automations , it is completely made with tools .
