@@ -10,3 +10,25 @@ Celinium a tool came for testing and review . process of delivering the software
 CI { continous Intergation } CD { continous Deployments } / and its not fully automated .
 
 DEVOPs - Higher degree of Automations , it is completely made with tools .
+
+                                                                                     HISTORY OF GIT .
+
+* Linus Torwell is the father of linux and GIT . 
+
+     # Started around 2002 { concept } In 2005 it was restarted .
+     # GIT thinks about the data .
+    
+* Features 
+
+     # Distributed
+     # Compatible
+     # Non Linear
+     # Branching it contains production related codes 
+     # Lightweights
+     # Speed
+     # Open Source
+     # Reliable
+     # Secure
+     # Economical .
+
+
