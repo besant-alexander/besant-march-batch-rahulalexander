@@ -1,0 +1,41 @@
+18.03.2024.
+
+Getting a GIT Repository .
+
+There are 2 ways .
+ # pwd
+ # clone from local machine 
+
+Initializing Repository 
+
+"git init" command to make a local repository . It will create a .git folder which will have folders and files . 
+
+cd /onedrive/desktop .
+
+ls -al -
+ll .git/ to see sub files and folders 
+
+Authentication 2 ways .
+# Htps - username / password . Its not a secure way
+# ssh key based Authentication . Its a secure way 
+
+Clone the Repository VIA ssh .
+# " ssh-keygen " is the command to generate a SSH key and Press enter button mutiple times .
+cd .ssh/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
