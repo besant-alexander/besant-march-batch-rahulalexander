@@ -1,5 +1,9 @@
 18.03.2024.
 
+Previous class commands - 
+# git --version 
+# git config --list --show-origin 
+
 Getting a GIT Repository .
 
 There are 2 ways .
@@ -31,8 +35,8 @@ copy the data and go to github
 Right top icon / user profile and then settings and go to ssh and gpg keys 
 new SSH key and copy paste the data and add SSH key .
 
-
-
+" git clone < ssh repo URL > ". and then we can see the website files in the git bash app .
+ls and then cd into the folder , we can see the files we have created in the repository .
 
 
 
