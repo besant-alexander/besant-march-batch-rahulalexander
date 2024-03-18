@@ -20,9 +20,16 @@ Authentication 2 ways .
 # ssh key based Authentication . Its a secure way 
 
 Clone the Repository VIA ssh .
-# " ssh-keygen " is the command to generate a SSH key and Press enter button mutiple times .
-cd .ssh/
 
+# " ssh-keygen " is the command to generate a SSH key and Press enter button mutiple times .
+cd "enter"
+cd .ssh/
+Then ls we can see a file ending with ".pub"
+id_ed25519.pub
+cat id_ed25519.pub
+copy the data and go to github
+Right top icon / user profile and then settings and go to ssh and gpg keys 
+new SSH key and copy paste the data and add SSH key .
 
 
 
